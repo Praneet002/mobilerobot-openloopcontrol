@@ -95,7 +95,10 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here
-
+#Initial Position
+![output](Model 1.jpeg)
+#Final Position
+![output](Model 2.jpeg)
 
 <br/>
 <br/>
