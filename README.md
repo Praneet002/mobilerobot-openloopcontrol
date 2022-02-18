@@ -96,9 +96,9 @@ if _name_ == '_main_':
 
 Insert image here
 #Initial Position
-![output](./img/Model 1.jpeg)
+![robo](./img/Model 1.jpeg)
 #Final Position
-![output](./img/Model 2.jpeg)
+![robo](./img/Model 2.jpeg)
 
 <br/>
 <br/>
